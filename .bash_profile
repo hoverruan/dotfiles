@@ -41,3 +41,9 @@ complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes Syste
 
 # If possible, add tab completion for many more commands
 [ -f /etc/bash_completion ] && source /etc/bash_completion
+source ~/.git-completion.sh
+#[ -f /usr/local/opt/bash-completion/etc/bash_completion ] && source /usr/local/opt/bash-completion/etc/bash_completion
+##
+# Your previous /Users/hover/.bash_profile file was backed up as /Users/hover/.bash_profile.macports-saved_2012-12-11_at_21:28:26
+##
+
