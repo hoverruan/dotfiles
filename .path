@@ -1,2 +1,2 @@
 export OLD_PATH=$PATH
-export PATH=~/bin:/usr/local/git/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+export PATH=~/bin:/usr/local/git/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/npm/bin

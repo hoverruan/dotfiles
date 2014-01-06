@@ -89,3 +89,7 @@
 
 [push]
 	default = matching
+
+[user]
+	email = hoverruan@gmail.com
+	name = Hover Ruan
